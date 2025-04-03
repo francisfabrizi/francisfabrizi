@@ -12,7 +12,7 @@ Currently diving into penetration testing, vulnerability assessments, and ethica
 
 ## 🛠 Skills & Technologies
 💻 Languages: Python, Bash  
-🔐 Security Tools: Nmap, Metasploit, SQLMap, Hydra, Gobuster, XSS  
+🔐 Security Tools: Nmap, Metasploit, SQLMap, Hydra, Gobuster,    
 📡 Networking & Security: TCP/IP, Firewalls, SSH, Web Security  
 🛠 Platforms: Kali Linux, VirtualBox, Raspberry Pi  
 
