@@ -23,5 +23,4 @@ Currently diving into penetration testing, vulnerability assessments, and ethica
 🌟 Red team vs. blue team strategies  
 
 ## 📫 Connect with Me
-🔗 GitHub: https://github.com/francisfabrizi
 🔗 LinkedIn: www.linkedin.com/in/francis-fabrizi
