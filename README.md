@@ -4,10 +4,10 @@ I’m an aspiring cybersecurity professional passionate about ethical hacking, p
 
 ## 🚀 About Me
 
-Currently diving into penetration testing, vulnerability assessments, and ethical hacking through hands-on labs, CTF challenges, and real-world simulations.
+Currently diving into penetration testing and ethical hacking through hands-on labs, CTF challenges and real-world simulations.
 
-🔹 Exploring key security concepts like network security, system hardening, cryptography, and exploit development.  
-🔹 Developing cybersecurity-focused Python projects, including security tools, automation scripts, and penetration testing frameworks.  
+🔹 Exploring key security concepts like network security, system hardening, cryptography and exploit development.  
+🔹 Developing cybersecurity-focused Python projects, including security tools, automation scripts and penetration testing frameworks.  
 🔹 Actively expanding my knowledge of Metasploit, Nmap, SQLMap, Hydra and other essential security tools.  
 
 ## 🛠 Skills & Technologies
