@@ -11,7 +11,7 @@ Currently diving into penetration testing and ethical hacking through hands-on l
 🔹 Actively expanding my knowledge of Metasploit, Nmap, SQLMap, Hydra and other essential security tools.  
 
 ## 🛠 Skills & Technologies
-💻 Languages: Python, Bash  
+💻 Languages: Python, SQL  
 🔐 Security Tools: Nmap, Metasploit, SQLMap, Hydra, Gobuster,    
 📡 Networking & Security: TCP/IP, Firewalls, SSH, Web Security  
 🛠 Platforms: Kali Linux, VirtualBox, Raspberry Pi  
